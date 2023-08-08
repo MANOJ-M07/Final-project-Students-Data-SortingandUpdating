@@ -1,0 +1,8 @@
+D:\simplilearn\final-project\project-2\Text-fileSortingandUpdating\Text-fileSortingandUpdating\bin\Debug\Text-fileSortingandUpdating.exe.config
+D:\simplilearn\final-project\project-2\Text-fileSortingandUpdating\Text-fileSortingandUpdating\bin\Debug\Text-fileSortingandUpdating.exe
+D:\simplilearn\final-project\project-2\Text-fileSortingandUpdating\Text-fileSortingandUpdating\bin\Debug\Text-fileSortingandUpdating.pdb
+D:\simplilearn\final-project\project-2\Text-fileSortingandUpdating\Text-fileSortingandUpdating\obj\Debug\Text-fileSortingandUpdating.csproj.AssemblyReference.cache
+D:\simplilearn\final-project\project-2\Text-fileSortingandUpdating\Text-fileSortingandUpdating\obj\Debug\Text-fileSortingandUpdating.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\final-project\project-2\Text-fileSortingandUpdating\Text-fileSortingandUpdating\obj\Debug\Text-fileSortingandUpdating.csproj.CoreCompileInputs.cache
+D:\simplilearn\final-project\project-2\Text-fileSortingandUpdating\Text-fileSortingandUpdating\obj\Debug\Text-fileSortingandUpdating.exe
+D:\simplilearn\final-project\project-2\Text-fileSortingandUpdating\Text-fileSortingandUpdating\obj\Debug\Text-fileSortingandUpdating.pdb
